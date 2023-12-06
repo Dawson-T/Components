@@ -1,4 +1,4 @@
 # RotatingVerification
-选择验证码组件
+# SMSVerification
 
 ## 组件导入即用
